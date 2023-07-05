@@ -1,0 +1,15 @@
+.home_image{
+    position: relative;
+}
+
+.home_image img{
+    height: 601px;
+    width: 1366px;
+}
+
+.home_image_content{
+    color: aliceblue;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
