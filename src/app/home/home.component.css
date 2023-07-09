@@ -1,3 +1,10 @@
+.home_image h2 {
+    font-family: 'Poppins-BoldItalic';
+}
+.home_image h3, h5 {
+    font-family: 'Poppins-Italic';
+  }
+
 .home_image{
     position: relative;
 }
@@ -10,6 +17,6 @@
 .home_image_content{
     color: aliceblue;
     position: absolute;
-    top: 180px;
+    top: 60px;
     left: 150px;
 }
