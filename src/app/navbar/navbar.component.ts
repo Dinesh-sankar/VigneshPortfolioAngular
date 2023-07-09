@@ -13,8 +13,8 @@ export class NavbarComponent implements OnInit {
   }
 
   navbarLink1:string = "Home";
-  navbarLink2:string = "Research";
-  navbarLink3:string = "Publications";
+  navbarLink2:string = "Publications";
+  navbarLink3:string = "Achievements";
   navbarLink4:string = "About";
   popupMessage:string = "Hi, Welcome to Vigneshwaran's Portfolio";
 }
