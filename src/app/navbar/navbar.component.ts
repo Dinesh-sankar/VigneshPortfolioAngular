@@ -14,7 +14,7 @@ export class NavbarComponent implements OnInit {
 
   navbarLink1:string = "Home";
   navbarLink2:string = "Publications";
-  navbarLink3:string = "Achievements";
-  navbarLink4:string = "About";
+  navbarLink3:string = "About";
+  navbarLink4:string = "Contact us";
   popupMessage:string = "Hi, Welcome to Vigneshwaran's Portfolio";
 }
