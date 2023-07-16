@@ -7,7 +7,7 @@ import { WebDeveloperComponent } from './web-developer/web-developer.component';
 
 
 const routes: Routes = [
-  {path:'',redirectTo:'/home',pathMatch:"full"},
+  {path:'VigneshPortfolioAngular/VigneshPortfolioAngularApp/',redirectTo:'/home',pathMatch:"full"},
   { path: 'home', component: HomeComponent },
   { path: 'publications', component: PublicationsComponent },
   { path: 'contact-us', component: ContactUsComponent },
